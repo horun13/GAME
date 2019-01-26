@@ -1,0 +1,31 @@
+.body {
+  background-color: #4f7184
+}
+.title {
+  font-size: 50px;
+  text-align: center;
+  color: grey;
+}
+.navbar {
+  height: 65px;
+  font-size: 16px;
+  background-color: black;
+}
+.baslık {
+  color: white;
+  font-size: 20px;
+}
+.brand-logo {
+  font-style: tahoma;
+}
+.logo {
+  height: 70px;
+}
+.row {
+  width: 660px;
+  height: auto;
+  float: left;
+}
+.card {
+  float: left;
+}
